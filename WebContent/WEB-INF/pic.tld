@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<taglib xmlns="http://java.sun.com/xml/ns/j2ee" version="2.0">
+  <tlib-version>1.0</tlib-version>
+  <short-name></short-name>
+<tag>
+	<name>pictureList</name>
+	<tag-class>exper.PictureListTag</tag-class>
+	<attribute>
+		<name>var</name>
+		<required>true</required>
+		<rtexprvalue>true</rtexprvalue>
+	</attribute>
+</tag>
+</taglib>
